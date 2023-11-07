@@ -1,1 +1,1 @@
-# java24_diplom
+# java24_diplom_unit_tests
